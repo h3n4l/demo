@@ -1,1 +1,1 @@
-alter table tb-sample add phone varchar(16);
+alter table tb_smaple add phone varchar(16);
