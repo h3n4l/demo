@@ -1,1 +1,1 @@
-create table tb-smaple (int id primary key, boolean status);
+create table tb-smaple (id int primary key, status boolean);
