@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: SQL advise
         run: |
-          API="https://29dd-209-141-51-123.eu.ngrok.io/hook/sql-review/0bde57e6-6a1a-4b0c-8056-a985e1d5e332-1673532409"
+          API=" https://2c94-209-141-51-123.eu.ngrok.io/hook/sql-review/0bde57e6-6a1a-4b0c-8056-a985e1d5e332-1673532409"
           TOKEN="${{ secrets.SQL_REVIEW_API_SECRET }}"
           echo "Start request $API"
 
