@@ -1,1 +1,1 @@
-create table tb-hospital (id int primary key, class int);
+create table tb_hospital (id int primary key, class int);
